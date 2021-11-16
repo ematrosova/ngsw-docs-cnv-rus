@@ -9,4 +9,6 @@ sidebar_label: Загрузка, идентификация и проверка 
 На этапе идентификации определяется формат данных, тип секвенатора и источник данных.
 Определение источника данных (ДНК или РНК) является экспериментальной функцией и не влияет на дальнейший ход анализа.
 
-![Workflow details](/img/rus/19-upload-identify-verify.png)
+<p align="center">
+<img src={require('/img/rus/19-upload-identify-verify.png').default} width="800"/>
+</p>

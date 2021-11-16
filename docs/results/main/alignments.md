@@ -9,6 +9,8 @@ sidebar_label: Выравнивания
 индексный файл для выравнивания в формате BAI ![BAI file](/img/rus/31-bai-file.png) (требуется для некоторых инструментов), 
 а также открыть модуль визуализации прочтений на геноме во встроенном IGV ![IGV](/img/rus/27_igv.png) .
 
-**Визуализация в IGV. Снижение копийности участка на примере делеции.**
+**Визуализация в IGV: cнижение копийности участка на примере делеции**
 
-![IGV visualization](/img/rus/32-igv-deletion.jpg)
+<p align="center">
+<img src={require('/img/rus/32-igv-deletion.jpg').default} width="800"/>
+</p>
